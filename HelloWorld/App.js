@@ -8,7 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Hello World!!</Text>
       <Text style={styles.red}>A big red Hello World!</Text>
-      <Text style={styles.blue}>Maybe a little blue Hello World! from the right side of the screen with a little border and shadows?</Text>
+      <Text style={styles.blue}>Maybe a little blue Hello World! from the right side of the screen with a little border and shadows?.</Text>
       <StatusBar style="auto" />
     </View>
   );
